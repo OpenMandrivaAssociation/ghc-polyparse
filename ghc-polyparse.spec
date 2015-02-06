@@ -4,7 +4,7 @@
 Summary:	A variety of alternative parser combinator libraries for Haskell
 Name:		ghc-%{module}
 Version:	1.8
-Release:	2
+Release:	3
 License:	LGPLv2.1+
 Group:		Development/Other
 Url:		http://hackage.haskell.org/package/%{module}
